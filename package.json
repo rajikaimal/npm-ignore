@@ -1,0 +1,22 @@
+{
+  "name": "npm-ignore",
+  "version": "1.0.0",
+  "description": "Generate .npmginore file",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js",
+    "prettier": "prettier *.js"
+  },
+  "repository": "https://github.com/rajikaimal/npm-ignore",
+  "author": "rajikaimal <inbox.rajika@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "file-exists": "^5.0.1"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "rmdir": "^1.2.0",
+    "tape": "^4.9.1"
+  }
+}
