@@ -15,8 +15,7 @@ const npmIgnore = require("@rajikaimal/npm-ignore");
 
 npmIgnore(".tmp").then(created => {
   console.log(created);
-  t.true(created);
-  t.end();
+  //true
 });
 ```
 
