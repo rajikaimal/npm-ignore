@@ -1,5 +1,5 @@
 {
-  "name": "npm-ignore",
+  "name": "@rajikaimal/npm-ignore",
   "version": "1.0.0",
   "description": "Generate .npmginore file",
   "main": "index.js",
